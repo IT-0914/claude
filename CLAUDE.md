@@ -11,4 +11,5 @@ This repository is currently empty — it has no source code, build configuratio
 - When code is added to this repository, update this file with:
   - The commands used to build, lint, and test the project (including how to run a single test).
   - A high-level description of the architecture once one exists.
+- Keep `AGENTS.md` (guidance for OpenAI Codex) consistent with this file when either changes.
 - Do not assume a language, framework, or toolchain until project files (e.g., a package manifest or build configuration) establish one.
